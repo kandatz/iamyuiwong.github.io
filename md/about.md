@@ -3,6 +3,8 @@
 - [Wiki.YuiWong.org](https://wiki.yuiwong.org) Hosted on GitHub Pages
 - [yuiwong.org Home](https://yuiwong.org)
 
+- [About GitHub Pages](http://wiki.yuiwong.org/clean-theme/2016/09/About-GitHubPages)
+
 ---
 
 ©2016 [Wiki.YuiWong.org](https://wiki.yuiwong.org).
