@@ -9,10 +9,44 @@
 			<item>
 				<title>Create Wiki By Jekyll</title>
 				<description>&lt;h2 id=&quot;create-wiki-by-jekyll&quot;&gt;Create-Wiki-by-jekyll&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://wiki.yuiwong.org&quot;&gt;Back Wiki Home&lt;/a&gt;
+ | &lt;a href=&quot;http://yuiwong.org&quot;&gt;Back YuiWong.org Home&lt;/a&gt;&lt;/p&gt;
 </description>
 				<pubDate>Wed, 28 Sep 2016 00:00:00 +0800</pubDate>
 				<link>/clean-theme/2016/09/Create-Wiki-by-jekyll</link>
 				<guid isPermaLink="true">/clean-theme/2016/09/Create-Wiki-by-jekyll</guid>
+			</item>
+		
+			<item>
+				<title>About Githubpages</title>
+				<description>&lt;h2 id=&quot;about-github-pages&quot;&gt;About GitHub Pages&lt;/h2&gt;
+
+&lt;h3 id=&quot;welcome-to-github-pages&quot;&gt;Welcome to GitHub Pages.&lt;/h3&gt;
+&lt;p&gt;This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here &lt;a href=&quot;https://guides.github.com/features/mastering-markdown/&quot;&gt;using GitHub Flavored Markdown&lt;/a&gt;, select a template crafted by a designer, and publish. After your page is generated, you can check out the new &lt;code class=&quot;highlighter-rouge&quot;&gt;gh-pages&lt;/code&gt; branch locally. If you’re using GitHub Desktop, simply sync your repository and you’ll see the new branch.&lt;/p&gt;
+
+&lt;h3 id=&quot;designer-templates&quot;&gt;Designer Templates&lt;/h3&gt;
+&lt;p&gt;We’ve crafted some handsome templates for you to use. Go ahead and click ‘Continue to layouts’ to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved.&lt;/p&gt;
+
+&lt;h3 id=&quot;creating-pages-manually&quot;&gt;Creating pages manually&lt;/h3&gt;
+&lt;p&gt;If you prefer to not use the automatic generator, push a branch named &lt;code class=&quot;highlighter-rouge&quot;&gt;gh-pages&lt;/code&gt; to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.&lt;/p&gt;
+
+&lt;h3 id=&quot;authors-and-contributors&quot;&gt;Authors and Contributors&lt;/h3&gt;
+&lt;p&gt;You can @mention a GitHub username to generate a link to their profile. The resulting &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;a&amp;gt;&lt;/code&gt; element will link to the contributor’s GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.&lt;/p&gt;
+
+&lt;h3 id=&quot;support-or-contact&quot;&gt;Support or Contact&lt;/h3&gt;
+&lt;p&gt;Having trouble with Pages? Check out our &lt;a href=&quot;https://help.github.com/pages&quot;&gt;documentation&lt;/a&gt; or &lt;a href=&quot;https://github.com/contact&quot;&gt;contact support&lt;/a&gt; and we’ll help you sort it out.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://wiki.yuiwong.org&quot;&gt;Back Wiki Home&lt;/a&gt;
+ | &lt;a href=&quot;http://yuiwong.org&quot;&gt;Back YuiWong.org Home&lt;/a&gt;&lt;/p&gt;
+</description>
+				<pubDate>Wed, 28 Sep 2016 00:00:00 +0800</pubDate>
+				<link>/clean-theme/2016/09/About-GitHubPages</link>
+				<guid isPermaLink="true">/clean-theme/2016/09/About-GitHubPages</guid>
 			</item>
 		
 	</channel>
