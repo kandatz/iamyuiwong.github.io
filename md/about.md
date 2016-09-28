@@ -1,8 +1,6 @@
 # About Wiki.YuiWong.org
 
 - [Wiki.YuiWong.org](https://wiki.yuiwong.org) Hosted on GitHub Pages
-- [yuiwong.org Home](https://yuiwong.org)
-
 - [About GitHub Pages](http://wiki.yuiwong.org/clean-theme/2016/09/About-GitHubPages)
 
 ---
@@ -11,3 +9,8 @@
  Created by [Jekyll](http://jekyllrb.com/),
  theme by [Scott Emmons](https://github.com/scotte/jekyll-clean)
  under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/)
+
+---
+
+[Back Wiki Home](http://wiki.yuiwong.org)
+ | [Back YuiWong.org Home](http://yuiwong.org)
