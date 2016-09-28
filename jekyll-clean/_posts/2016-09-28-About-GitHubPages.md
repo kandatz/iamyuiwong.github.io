@@ -1,1 +1,0 @@
-../../md/2016-09-28-about-githubpages.md
