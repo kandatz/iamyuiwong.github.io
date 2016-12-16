@@ -9,7 +9,7 @@ git clone https://yuiwong.org/git/jekyll-clean.git -b jekyll-clean.oyw jekyll-cl
 ```
 - [Original post markdown files at iamyuiwong/iamyuiwong.github.io](https://github.com/iamyuiwong/iamyuiwong.github.io/tree/master/md)
 
-- [About GitHub Pages](http://wiki.yuiwong.org/clean-theme/2016/09/About-GitHubPages)
+- [About GitHub Pages](http://wiki.yuiwong.org/master/2016/09/About-GitHubPages)
 
 ---
 
