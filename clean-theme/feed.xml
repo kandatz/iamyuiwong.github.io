@@ -3,8 +3,8 @@
 	<channel>
 		<title>Wiki.YuiWong.org</title>
 		<description>Wiki.YuiWong.org Hosted on GitHub Pages</description>
-		<link>/clean-theme</link>
-		<atom:link href="/clean-theme/feed.xml" rel="self" type="application/rss+xml" />
+		<link>/master</link>
+		<atom:link href="/master/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Create Wiki By Jekyll</title>
@@ -16,8 +16,8 @@
  | &lt;a href=&quot;http://yuiwong.org&quot;&gt;Back YuiWong.org Home&lt;/a&gt;&lt;/p&gt;
 </description>
 				<pubDate>Wed, 28 Sep 2016 00:00:00 +0800</pubDate>
-				<link>/clean-theme/2016/09/Create-Wiki-by-jekyll</link>
-				<guid isPermaLink="true">/clean-theme/2016/09/Create-Wiki-by-jekyll</guid>
+				<link>/master/2016/09/Create-Wiki-by-jekyll</link>
+				<guid isPermaLink="true">/master/2016/09/Create-Wiki-by-jekyll</guid>
 			</item>
 		
 			<item>
@@ -45,8 +45,8 @@
  | &lt;a href=&quot;http://yuiwong.org&quot;&gt;Back YuiWong.org Home&lt;/a&gt;&lt;/p&gt;
 </description>
 				<pubDate>Wed, 28 Sep 2016 00:00:00 +0800</pubDate>
-				<link>/clean-theme/2016/09/About-GitHubPages</link>
-				<guid isPermaLink="true">/clean-theme/2016/09/About-GitHubPages</guid>
+				<link>/master/2016/09/About-GitHubPages</link>
+				<guid isPermaLink="true">/master/2016/09/About-GitHubPages</guid>
 			</item>
 		
 	</channel>
